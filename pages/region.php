@@ -55,7 +55,7 @@ include __DIR__ . '/../templates/header.php';
 <section class="relative py-16 lg:py-20 overflow-hidden" style="min-height: 320px;">
     <!-- Image de fond -->
     <div class="absolute inset-0 z-0">
-        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1920&q=80&auto=format"
+        <img src="<?= HERO_IMAGE ?>"
              alt="Installation de portes"
              class="w-full h-full object-cover"
              loading="eager">

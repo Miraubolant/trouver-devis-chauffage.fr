@@ -26,7 +26,7 @@ include __DIR__ . '/templates/header.php';
 <section class="relative overflow-hidden">
     <!-- Image de fond -->
     <div class="absolute inset-0">
-        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1920&q=80" alt="Porte d'entrée moderne"
+        <img src="<?= HERO_IMAGE ?>" alt="Porte d'entrée moderne"
             class="w-full h-full object-cover">
         <!-- Overlay gradient -->
         <div class="absolute inset-0 bg-gradient-to-br from-primary-900/90 via-primary-800/85 to-primary-700/80"></div>

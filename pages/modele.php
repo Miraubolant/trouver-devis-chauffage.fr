@@ -106,7 +106,7 @@ include __DIR__ . '/../templates/header.php';
 <section class="relative py-12 lg:py-16 overflow-hidden">
     <!-- Image de fond -->
     <div class="absolute inset-0">
-        <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1920&q=80"
+        <img src="<?= HERO_IMAGE ?>"
              alt="Installation de portes"
              class="w-full h-full object-cover">
         <div class="absolute inset-0 bg-gradient-to-br from-primary-900/90 via-primary-800/85 to-primary-700/80"></div>
