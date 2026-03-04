@@ -119,7 +119,7 @@ define('AVANTAGES', [
 ]);
 
 define('HERO_IMAGE', 'https://images.unsplash.com/photo-1541888086420-eeee96db2946?w=1920&q=80&auto=format&fit=crop');
-define('MODELE_IMAGE', 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1920&q=80&auto=format&fit=crop');
+define('MODELE_IMAGE', 'https://images.unsplash.com/photo-1520188740392-67fe8cb1a021?w=1920&q=80&auto=format&fit=crop');
 
 
 function getModeleBySlug($slug)
