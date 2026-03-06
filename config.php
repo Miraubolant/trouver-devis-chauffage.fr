@@ -118,8 +118,8 @@ define('AVANTAGES', [
     ['titre' => 'Mise en Relation Rapide', 'desc' => 'Obtenez gratuitement des devis adaptés à vos besoins.', 'icon' => "💰"],
 ]);
 
-define('HERO_IMAGE', 'https://images.unsplash.com/photo-1541888086420-eeee96db2946?w=1920&q=80&auto=format&fit=crop');
-define('MODELE_IMAGE', 'https://images.unsplash.com/photo-1520188740392-67fe8cb1a021?w=1920&q=80&auto=format&fit=crop');
+define('HERO_IMAGE', 'https://images.unsplash.com/photo-1499914485622-a88fac536970?w=1920&q=80&auto=format&fit=crop');
+define('MODELE_IMAGE', 'https://images.unsplash.com/photo-1588636402741-35b8004fcfd3?w=1920&q=80&auto=format&fit=crop');
 
 
 function getModeleBySlug($slug)
